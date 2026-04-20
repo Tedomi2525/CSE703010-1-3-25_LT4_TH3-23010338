@@ -262,8 +262,8 @@ GCD(a, b) = GCD(b, a mod b) cho đến khi b = 0
 ## Cách Chạy Chương Trình
 
 ```bash
-kotlinc MathFunctions.kt TestCases.kt -include-runtime -d TestCases.jar
-java -jar TestCases.jar
+python -m pip install pytest
+python -m pytest CSE703010-1-3-25_LT4_TH3-23010338\TestCases.py
 ```
 
 ---
