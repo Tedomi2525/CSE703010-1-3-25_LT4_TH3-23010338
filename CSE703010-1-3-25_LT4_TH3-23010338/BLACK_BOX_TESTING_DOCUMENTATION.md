@@ -2,7 +2,7 @@
 
 **Lớp:** CSE703010-1-3-25 LT4 TH3  
 **MSSV:** 23010338  
-**Ngôn ngữ:** Kotlin  
+**Ngôn ngữ:** Python
 
 ---
 

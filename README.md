@@ -3,7 +3,7 @@
 **Lớp:** CSE703010-1-3-25-LT4  
 **Bài tập:** Bài thực hành 3  
 **MSSV:** 23010338  
-**Ngôn ngữ:** Kotlin
+**Ngôn ngữ:** Python
 
 ---
 

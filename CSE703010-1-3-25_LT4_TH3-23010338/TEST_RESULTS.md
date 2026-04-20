@@ -3,7 +3,7 @@
 **Bài Thực Hành 3:** Kiểm Thử Hộp Đen (Black Box Testing)  
 **Lớp:** CSE703010-1-3-25 LT4 TH3  
 **MSSV:** 23010338  
-**Ngôn ngữ:** Kotlin
+**Ngôn ngữ:** Python
 
 ---
 
